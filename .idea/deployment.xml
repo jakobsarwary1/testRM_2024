@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="inf3533 (c2a24233-88b7-4804-afe7-d831de4aab54)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/inf3533/ClionProjects/testRM" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-inf3533" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-ubuntu" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
